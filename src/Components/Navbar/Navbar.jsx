@@ -2,6 +2,7 @@ import React, { useState } from "react";
 import './Navbar.css'
 import logo from '../Assets/Frontend_Assets/logo.png'
 import cart from '../Assets/Frontend_Assets/cart_icon.png'
+
 import { Link } from "react-router-dom";
 
 const Navbar = () => {

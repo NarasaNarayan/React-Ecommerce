@@ -19,7 +19,7 @@ const Hero = () => {
     </div>
     
     <div className="col mt-5">
-      <img src={hero_image} alt="" style={{width:'400px',height:'400px'}}/>
+      <img src={hero_image} alt="" style={{width:'500px',height:'500px'}}/>
     </div>
   </div>
 </div>
